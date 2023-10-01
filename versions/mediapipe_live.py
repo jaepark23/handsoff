@@ -1,6 +1,6 @@
 import cv2
 import time
-import mediapipe_img as mp
+import versions.mediapipe_img as mp
 import numpy as np
 import time
 import math
