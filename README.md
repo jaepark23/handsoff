@@ -1,4 +1,4 @@
-## What is GTFO
+## What is HandsOff?
 - Program that detects when a user touches their face with their hands
 ## How does it work
 - Utilizes hand and face detection models to track coordinates and check when hand and face coordinates overlap each other
